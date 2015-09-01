@@ -1,0 +1,24 @@
+{
+  "name": "ipbinder",
+  "version": "1.0.0",
+  "description": "force some url to bin to ip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbrechet/ipbinder.git"
+  },
+  "keywords": [
+    "proxy",
+    "ip",
+    "bind"
+  ],
+  "author": "mbrechet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbrechet/ipbinder/issues"
+  },
+  "homepage": "https://github.com/mbrechet/ipbinder#readme"
+}
