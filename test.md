@@ -22,6 +22,8 @@ node app.js
 
 Par défaut le port est configuré sur le port 1234, ceci est modifiable dans le fichier app.js
 
+On peut y accéder dans le navigateur par : [http://localhost:1234](http://localhost:1234)
+
 Configuration supportées
 ---------------------------
 
